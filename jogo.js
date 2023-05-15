@@ -25,7 +25,7 @@ const checkEndGame = () => {
 
   if (disabledCards.length === 10) {
     clearInterval(this.loop);
-    alert(`Parabéns! Estudos apontam que boa memória é sinônimo de belos seios? kkkkkkkkkkkkkkkk mostra ai pra eu vê! //// @luizsfc_`);
+    alert(`Parabéns! Estudos apontam que boa memória é sinônimo de belos seios kkkkkkkkkkkkkkkk mostra ai pra eu vê! @gabreoc`);
   }
 }
 
